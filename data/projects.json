@@ -1,0 +1,17 @@
+[
+  {
+    "id":"WATER-01", "name":"Municipal Water Loss Reduction", "sector":"Water", "description":"Illustrative program to detect and reduce distribution network losses.", "source_type":"synthetic",
+    "criteria":{"problem_definition":"documented","evidence":"partial","stakeholders":"documented","governance":"documented","budget":"partial","funding":"missing","timeline":"documented","indicators":"documented","risks":"partial","maintenance":"missing"},
+    "evidence_notes":{"problem_definition":"Illustrative baseline only; no measured losses.","indicators":"Example indicators: leakage rate and response time."}
+  },
+  {
+    "id":"ENERGY-02", "name":"Public Building Energy Retrofit", "sector":"Energy", "description":"Illustrative public-building efficiency retrofit proposal.", "source_type":"synthetic",
+    "criteria":{"problem_definition":"documented","evidence":"documented","stakeholders":"partial","governance":"documented","budget":"documented","funding":"partial","timeline":"documented","indicators":"documented","risks":"partial","maintenance":"documented"},
+    "evidence_notes":{"budget":"Example budget field; not an actual cost estimate.","evidence":"Invented baseline for classroom demonstration."}
+  },
+  {
+    "id":"CITY-03", "name":"Urban Flood Resilience Upgrade", "sector":"Urban resilience", "description":"Illustrative drainage and green-infrastructure adaptation project.", "source_type":"synthetic",
+    "criteria":{"problem_definition":"documented","evidence":"partial","stakeholders":"partial","governance":"missing","budget":"missing","funding":"missing","timeline":"partial","indicators":"documented","risks":"documented","maintenance":"missing"},
+    "evidence_notes":{"risks":"Illustrative flood exposure and delivery risks; not site-assessed."}
+  }
+]
